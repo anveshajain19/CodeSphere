@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://github.com/Sarguroh20/realtime-editor/assets/116432233/efd120d0-0ccf-44d8-8ceb-3707c0d281d2" style="width:30%; height:30%;" /> 
-<hr/>
-<table>
-<tr>
-<td align="center">
-  
 ### Introducing CodeSphere - A real-time web based code editor
 Revolutionize teamwork with CodeSphere, a real-time web based code editor like Google Docs for projects. Empower multiple developers to collaborate seamlessly on the same codebase, fostering instant feedback & unparalleled efficiency. 
 <br/><br/>
