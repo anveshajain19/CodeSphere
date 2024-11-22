@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://github.com/anveshajain19/CodeSphere" style="width:30%; height:30%;" /> 
-<hr/>
-<table>
-<tr>
-<td align="center">
-  
 ### Introducing CodeSphere - A real-time web based code editor
 Revolutionize teamwork with CodeSphere, a real-time web based code editor like Google Docs for projects. Empower multiple developers to collaborate seamlessly on the same codebase, fostering instant feedback & unparalleled efficiency. 
 <br/><br/>
@@ -21,4 +14,4 @@ Traditional coding environments lack real-time collaboration features, causing c
 - Import the project in vs code
 - Change the directory & then use this command: ```npm start```
 - Inside package.json ```run script of server:dev``` aka nodemon server
-- Voila! 🌟 SynCode is running...
+- Voila! 🌟 CodeSphere is running...
